@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "type_traits": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "compare": "cpp"
+    }
+}
